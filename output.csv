@@ -1,144 +1,142 @@
-3x3 matica pre kazdy riadok ci je okej vzhladom na dependenciu,,can,can,cannot,can,can,can,can,cannot,must,can,must,can,must,can,can,can,can,cannot,can,can,can,can,can,can,can,cannot
-,Change License,Commercial Use (Competitive),Commercial Use (Non-Competitive),Compensate for Damages,Contact Author,Disclose Source,Distribute,Give Credit,Hold Liable,Include Copyright,Include Install Instructions,Include License,Include Notice,Include Original,Modify,Pay Above Use Threshold,Place Warranty,Private Use,Relicense,Rename,State Changes,Statically Link,Sublicense,Use in Production,Use Internally,Use Patent Claims,Use Trademark
-4-Clause BSD,,can, can, cannot,can,can, can, must, cannot, must,can, must,can,must, can,can, can,can,cannot,can,can, can, can,can, can, can, cannot
-Academic Free License 3.0 (AFL),,can, can, cannot,can, must, can,can, cannot, must,can, must,can,must, can,can, can,can,cannot,can, must, can, can,can, can, can, cannot
-Academy of Motion Picture Arts and Sciences BSD,,can, can, cannot,can,can, can,can, cannot, must,can, must,can,must, can,can, can, can,cannot,can,can, can, can,can, can, can, cannot
-Adaptive Public License 1.0 (APL-1.0),,can, can, cannot,can, must, can, must, cannot, must,can, must, must,must, can,can, can, can,cannot,can, must, can, can,can, can, can, cannot
-Adobe Systems Incorporated Source Code License Agreement,,can, can, cannot,can,can, can,can, cannot, must,can, must,can,must, can,can, can, can,cannot,can,can, can, can,can, can, can, cannot
-Amazon Digital Services License,,can, can, cannot,can,can, can,can, cannot, must,can, must,can,must, can,can, can, can,cannot,can,can, can, can,can, can, can, 
-Android SDK License Agreement (June 2014),,can, can, cannot,can,can, can,can, cannot, must,can, must,can,must, ,can, can,can,cannot,can,can, can, can,can, can, can, 
-Apache License 1.0 (Apache-1.0),,can, can, cannot,can,can, can,can, cannot, must,can, must,can,must, can,can, can,can,cannot,can,can, can, can,can, can, can, cannot
-Apache License 2.0 (Apache-2.0),,can, can, cannot,can,can, can,can, cannot, must,can, must, must,must, can,can, can, can,cannot,can, must, can, can,can, can, can, cannot
-Apple MIT License (AML),,can, can, cannot,can,can, can,can, cannot, must,can, must,can,must, can,can, can, can,cannot,can,can, can, can,can, can, can, cannot
-Apple Public Source License 2.0 (APSL),,can, can, cannot,can, must, can,can, cannot, must,can, must,can,must, can,can, can,can,cannot,can, must, can, can,can, can, can, cannot
-Apple Website Terms of Service,,can, can, cannot,can,can, can,can, cannot, must,can, must,can,must, ,can, can,can,cannot,can,can, can, can,can, can, can, 
-Artistic License 2.0 (Artistic-2.0),,can, can, cannot,can,can, can,can, cannot, must, must, must,can,must, can,can, can, can,cannot, must, must, can, can,can, can, can, cannot
-Attribution Assurance License (AAL),,can, can, cannot,can,can, can, must, cannot, must,can, must,can,must, can,can, can,can,cannot,can,can, can, can,can, can, can, cannot
-BSD 0-Clause License (0BSD),,can, can, cannot,can,can, can,can, cannot, can,can, can,can, can, can,can, can, can,cannot,can,can, can, can,can, can, can, 
-BSD 2-Clause License (FreeBSD/Simplified),,can, can, cannot,can,can, can,can, cannot, must,can, must,can,must, can,can, can,can,cannot,can,can, can, can,can, can, can, 
-BSD 3-Clause License (Revised),,can, can, cannot,can,can, can,can, cannot, must,can, must,can,must, can,can, can,can,cannot,can,can, can, can,can, can, can, cannot
-Beerware License,,can, can, cannot,can,can, can,can, cannot, must,can, can,can,must, can,can, can,can,cannot,can,can, can, can,can, can, can, 
-BitTorrent Open Source License v1.1 (BitTorrent-1.1),,can, can, cannot,can, must, can, must, cannot, must,can, must, must,must, can,can, can,can,cannot,can, must, can, can,can, can, can, cannot
-Boost Software License 1.0 (BSL-1.0),,can, can, cannot,can,can, can,can, cannot, must,can, must,can,must, can,can, can,can,cannot,can,can, can, can,can, can, can, 
-Business Source License (BSL-1.1),,can, can, cannot,can,can, can,can, cannot, must,can, must,can,must, ,can, can,can,cannot,can,can, can, can, cannot, can, can, 
-CUA Office Public License v1.0 (CUA-OPL-1.0),,can, can, cannot,can, must, can, must, cannot, must,can, must, must,must, can,can, can,can,cannot,can, must, can, can,can, can, can, cannot
-CeCILL Free Software License Agreement v1.0 (CECILL-1.0),,can, can, cannot,can, must, can,can, can, must,can, must, must,must, can,can, can,can,cannot,can, must, can, can,can, can, can, 
-CeCILL Free Software License Agreement v1.1 (CECILL-1.1),,can,can, cannot,can, must, can,can, can, must,can, must, must,must, can,can, can,can,cannot,can, must, can, can,can, can, can, 
-CeCILL Free Software License Agreement v2.0 (CECILL-2.0),,can,can, cannot,can, must, can,can, can, must,can, must, must,must, can,can, can,can,cannot,can, must, can, can,can, can, can, 
-Common Development and Distribution License (CDDL-1.0),,can,can, cannot,can, must, can,can, cannot, must,can, must,can,must, can,can, can,can,cannot,can,can, can, can,can, can, can, cannot
-Common Public Attribution License Version 1.0 (CPAL-1.0),,can,can, cannot,can, must, can,can, cannot, must,can, must, must,must, can,can, can,can,cannot,can, must, can, can,can, can, can, cannot
-Common Public License 1.0 (CPL-1.0),,can,can, cannot,can, must, can,can, cannot, must,can, must,can,must, can,can, can,can,cannot,can,can, can, can,can, can, can, 
-Computer Associates Trusted Open Source License 1.1 (CATOSL-1.1),,can,can, cannot,can, must, can, must, cannot, must,can, must, must,must, can,can, can,can,cannot,can, must, can, can,can, can, can, cannot
-Creative Commons Attribution 3.0 Unported (CC-BY),,can,can, cannot,can,can, can,can, cannot, must,can, must,can,must, can,can, cannot,can,cannot,can,can, can, cannot,can, can, can, 
-Creative Commons Attribution 4.0 International (CC BY 4.0),,can,can, cannot,can,can, can, must, cannot, must,can, must,can,must, can,can,can,can,cannot,can, must, can, cannot,can, can, can, 
-Creative Commons Attribution NoDerivs (CC-ND),,can,can, cannot,can,can, can,can, cannot, must,can, must,can,must, cannot,can, cannot,can,cannot,can,can, can, cannot,can, can, can, 
-Creative Commons Attribution NonCommercial (CC-BY-NC),,cannot,cannot, cannot,can,can, can, must, cannot, must,can, must,can,must, can,can, cannot,can,cannot,can, must, can, cannot,can, can, can, 
-Creative Commons Attribution NonCommercial NoDerivs (CC-NC-ND),,cannot,cannot, cannot,can,can, can,can, cannot, must,can, must,can,must, cannot,can, cannot,can,cannot,can,can, can, cannot,can, can, can, 
-Creative Commons Attribution NonCommercial ShareAlike (CC-NC-SA),,cannot,cannot, cannot,can,can, can,can, cannot, must,can, must,can,must, can,can, cannot,can,cannot,can,can, can, cannot,can, can, can, 
-Creative Commons Attribution Share Alike (CC-SA),,can,can, cannot,can,can, can,can, cannot, must,can, must,can,must, can,can, cannot,can,cannot,can,can, can, cannot,can, can, can, 
-Creative Commons Attribution-NoDerivatives 4.0 International (CC BY-ND 4.0),,can,can, cannot,can,can, can, must, cannot, must,can, must,can,must, cannot,can,can,can,cannot,can, must, can, cannot,can, can, can, 
-Creative Commons Attribution-NonCommercial 2.0 Generic (CC BY-NC 2.0),,can,can, cannot,can,can, can,can, cannot, must,can, must,can,must, ,can,can,can,cannot,can,can, can,can,can, can, can, 
-Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0),,cannot,cannot, cannot,can,can, can, must, cannot, must,can, must,can,must, can,can,can,can,cannot,can, must, can, cannot,can, can, can, 
-Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0),,cannot,cannot, cannot,can,can, can, must, cannot, must,can, must,can,must, can,can, cannot,can,cannot,can, must, can, cannot,can, can, can, 
-Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0),,can,can, cannot,can,can, can, must, cannot, must,can, must,can,must, can,can,can,can,cannot,can, must, can, cannot,can, can, can, 
-Creative Commons CC0 1.0 Universal (CC-0),,can,can, cannot,can,can, can,can, cannot, must,can, must,can,must, can,can,can,can,cannot,can,can, can, can,can, can, cannot, cannot
-Cube License,,can,can, cannot,can,can, can,can, cannot, must,can, must,can,must, can,can,can,can,cannot,can,can, can, can,can, can, can, 
-Do What The F*ck You Want To Public License v2 (WTFPL-2.0),,can,can, cannot,can,can, can,can, cannot, can,can, can,can, can, can,can,can,can,cannot, must,can, can, can,can, can, can, 
-Doom Source Licence,,cannot,cannot, cannot,can,can, cannot,can, cannot, must,can, must,can,must, can,can,can,can,cannot,can,can, can, can,can, can, can, 
-Dropbox Terms of Service,,can,can, cannot,can,can,can,can, cannot, must,can, must,can,must, ,can,can,can,cannot,can,can, can, can,can, can, can, 
-EU DataGrid Software License (EUDatagrid),,can,can, cannot,can,can, can,can, cannot, must,can, must, must,must, can,can,can,can,cannot,can,can, can, can,can, can, can, cannot
-Eclipse Public License 1.0 (EPL-1.0),,can,can, must,can, must, can,can, cannot, must, must, must,can,must, can,can,can,can, can,can,can, can, can,can, can, can, cannot
-Educational Community License Version 2.0 (ECL-2.0),,can,can,cannot,can,can, can,can, cannot, must,can, must, must,must, can,can,can,can,cannot,can, must, can, can,can, can, can, cannot
-Eiffel Forum License v2.0 (EFL-2.0),,can,can,cannot,can,can, can,can, cannot, must,can, must,can,must, can,can,can,can, can,can,can, can, can,can, can, can, 
-Entessa Public License v1.0 (Entessa),,can,can,cannot,can,can, can,can, cannot, must,can, must, must,must, can,can,can,can,cannot,can,can, can, can,can, can, can, cannot
-Erlang Public License v1.1 (ErlPL-1.1),,can,can,cannot,can, must, can, must, cannot, must,can, must, must,must, can,can,can,can,cannot,can, must, can, can,can, can, can, cannot
-European Union Public License 1.1 (EUPL-1.1),,can,can,cannot,can, must, can,can, cannot, must,can, must,can,must, can,can,can,can,cannot,can, must, can, can,can, can, can, 
-Facebook Terms of Service (Statement of Rights and Responsibilities),,can,can,cannot,can,can, can,can, cannot, must,can, must,can,must, ,can,can,can,cannot,can,can, can, can,can, can, can, 
-Fair License (Fair),,can,can,cannot,can,can, can,can, cannot, must,can, must,can,must, can,can, cannot,can,cannot,can,can, can, can,can, can, can, 
-Frameworx Open License 1.0 (Frameworx-1.0),,can,can,cannot,can, must, can,can, cannot, must,can, must, must,must, can,can, can,can,cannot,can,can, can, can,can, can, can, 
-Free Public License 1.0.0,,can,can,cannot,can,can, can,can, cannot, must,can, must,can,must, can,can, can,can,cannot,can,can, can, can,can, can, can, 
-Functional Source License (FSL),must, cannot,can,cannot,can,can, can,can, cannot, must,can, must,can,must, ,can, can,can,cannot,can,can, can, can,can, can, can, 
-GNU Affero General Public License v3 (AGPL-3.0),,can,can,cannot,can, must, can,can, cannot, must, must, must,can,must, can,can, can,can,cannot,can, must, can, cannot,can, can, can, 
-GNU Free Documentation License v1.3 (FDL-1.3),,can,can,cannot,can,can, can,can, cannot, must,can, must,can,must, ,can, can,can,cannot,can,can, can,can,can, can, can, 
-GNU General Public License v2.0 (GPL-2.0),,can,can,cannot,can, must, can,can, cannot, must,can, must,can,must, can,can, can,can,cannot,can, must, can, cannot,can, can, can, 
-GNU General Public License v3 (GPL-3),,can,can,cannot,can, must, can,can, cannot, must, must, must,can,must, can,can, can,can,cannot,can, must, can, cannot,can, can, can, 
-GNU LESSER GENERAL PUBLIC LICENSE,,can,can,cannot,can,can, can,can, cannot, must,can, must,can,must, ,can, can,can,cannot,can,can, can, can,can, can, can, 
-GNU Lesser General Public License v2.1 (LGPL-2.1),,can,can,cannot,can, must, can,can, cannot, must,can, must, must,must, can,can, can,can,cannot,can, must, cannot, can,can, can, can, 
-GNU Lesser General Public License v3 (LGPL-3.0),,can,can,cannot,can, must, can,can, cannot, must, must, must,can,must, can,can, can,can,cannot,can, must,can, cannot,can, can, can, 
-Historic Permission Notice and Disclaimer (HPND),,can,can,cannot,can,can, can,can, cannot, must,can, must, must,must, can,can, can,can,cannot,can,can,can, can,can, can, can, 
-IBM PowerPC Initialization and Boot Software (IBM-pibs),,can,can,cannot,can,can, can,can, cannot, must,can, must,can,must, can,can, can,can,cannot,can,can,can, can,can, can, can, 
-IBM Public License 1.0 (IPL),,can,can,cannot,can, must, can,can, cannot, must,can, must,can,must, can,can, can,can,cannot,can,can,can, can,can, can, can, cannot
-IPA Font License (IPA),,can,can,cannot,can,can, can,can, cannot, must,can, must,can,must, can,can, can,can,cannot,can,can,can, can,can, can, can, cannot
-ISC License,,can,can,cannot,can,can, can,can, cannot, must,can, must,can,must, can,can, can,can,cannot,can,can,can, can,can, can, can, 
-Independent JPEG Group License (IJG),,can,can, must, must,can, can, must, cannot, cannot,can, must, must,must, can,can, can, must,cannot,can,can,can, can,can, can, cannot, cannot
-Instagram Terms of Use,,can,can,cannot,can,can, can,can, cannot, must,can, must,can,must, ,can, can, can,cannot,can,can,can, can,can, can,can, 
-Intel Open Source License (Intel),,can,can,cannot,can,can, can,can, cannot, must,can, must,can,must, can,can, can, can,cannot,can,can,can, can,can, can,can, 
-LaTeX Project Public License v1.3c (LPPL-1.3c),,can,can,cannot,can, must, can,can, cannot, must,can, must,can,must, can,can, can, can,cannot,can, must,can, can,can, can,can, cannot
-League of Legends Terms of Use,,can,can,cannot,can,can, can,can, cannot, must,can, must,can,must, ,can, can, can,cannot,can,can,can, can,can, can,can, 
-Lucent Public License v1.02 (LPL-1.02),,can,can,cannot,can,can, can,can, cannot, must,can, must,can,must, can,can, can, can,cannot,can, must,can, can,can, can,can, 
-MIT License (Expat),,can,can,cannot,can,can, can,can, cannot, must,can, must,can,must, can,can, can, can,cannot,can,can,can, can,can, can,can, 
-Microsoft Public License (Ms-PL),,can,can,cannot,can,can, can,can, cannot, must,can, must,can,must, can,can, can, can,cannot,can,can,can, can,can, can,can, cannot
-Microsoft Reciprocal License (Ms-RL),,can,can,cannot,can, must, can,can, cannot, must,can, must,can,must, can,can, can, can,cannot,can,can,can, can,can, can, cannot, cannot
-Minecraft End User Licence Agreement,,can,can,cannot,can,can, can,can, cannot, must,can, must,can,must, ,can, can, can,cannot,can,can,can, can,can, can, can, 
-Minecraft End User License Agreement,,can,can,cannot,can,can, can,can, cannot, must,can, must,can,must, ,can, can, can,cannot,can,can,can, can,can, can, can, 
-MirOS License (MirOS),,can,can,cannot,can,can, can,can, cannot, must,can, must,can,must, can,can, can, can,cannot,can,can,can, can,can, can, can, 
-Mozilla Public License 1.0 (MPL-1.0),,can,can,cannot,can, must, can,can, cannot, must,can, must,can,must, can,can, can, can,cannot,can, must,can, can,can, can, can, 
-Mozilla Public License 1.1 (MPL-1.1),,can,can,cannot,can, must, can, must, cannot, must,can, must, must,must, can,can, can, can,cannot,can, must,can, can,can, can, can, cannot
-Mozilla Public License 2.0 (MPL-2.0),,can,can,cannot,can, must, can,can, cannot, must,can, must,can,must, can,can, can, can,cannot,can,can,can, can,can, can, can, cannot
-Multics License (Multics),,can,can,cannot,can,can, can,can, cannot, must,can, must,can,must, can,can, can, can,cannot,can,can,can, can,can, can, can, cannot
-NASA Open Source Agreement 1.3 (NASA-1.3),,can,can,cannot,can, must, can,can, cannot, must,can, must,can,must, can,can, can, can,cannot,can,can,can, can,can, can, can, cannot
-NTP License (NTP),,can,can,cannot,can,can, can,can, cannot, must,can, must,can,must, can,can, can, can,cannot,can,can,can, can,can, can, can, cannot
-Naumen Public License (Naumen),,can,can,cannot,can,can, can,can, cannot, must,can, must,can,must, can,can, can, can,cannot,can, must,can, can,can, can, can, cannot
-Nethack General Public License (NGPL),,can,can,cannot,can, must, can,can, cannot, must,can, must,can,must, can,can, can, can,cannot,can, must,can, cannot,can, can, can, 
-Netscape Public License v1.1 (NPL-1.1),,can,can,cannot,can, must, can, must, cannot, must,can, must, must,must, can,can, can, can,cannot,can, must,can, can,can, can, can, cannot
-Nokia Open Source License (Nokia Open Source License),,can,can,cannot,can, must, can, must, cannot, must,can, must, must,must, can,can, can, can,cannot,can, must,can, can,can, can, can, cannot
-Non-Profit Open Software License 3.0 (NPOSL-3.0),,can,can,cannot,can, must, can,can, cannot, must,can, must,can,must, can,can, can, can,cannot,can,can,can, can,can, can, can, cannot
-OCLC Research Public License 2.0 (OCLC-2.0),,can,can,cannot,can, must, can,can, cannot, must,can, must,can,must, can,can, can, can,cannot,can,can,can, can,can, can, can, cannot
-ODC Open Database License (ODbL),,can,can,cannot,can,can, can,can, cannot, must,can, must,can,must, can,can, can, can,cannot,can,can,can, cannot,can, can, can, 
-ODC Public Domain Dedication & License 1.0 (PDDL-1.0),,can,can,cannot,can,can, can,can, cannot, must,can, must,can,must, can,can, can, can,cannot,can,can,can, cannot,can, can, can, cannot
-Open Group Test Suite License (OGTSL),,can,can,cannot,can,can, can,can, cannot, must,can, must,can,must, can,can, can, can,cannot,can, must,can, can,can, can, can, cannot
-Open Public License v1.0 (OPL-1.0),,can,can,cannot,can, must, can, must, cannot, must,can, must, must,must, can,can, can, can,cannot,can, must,can, can,can, can, can, cannot
-Open Software Licence 3.0,,can,can,cannot,can, must, can,can, cannot, must,can, must,can,must, can,can, can, can,cannot,can,can,can, can,can, can, can, cannot
-Open Software License 1.0 (OSL-1.0),,can,can,cannot,can, must, can,can, cannot, must,can, must,can,must, can,can, can, can,cannot,can,can,can, can,can, can, can, cannot
-Open Software License 1.1 (OSL-1.1),,can,can,cannot,can, must, can,can, cannot, must,can, must,can,must, can,can, can, can,cannot,can,can,can, can,can, can, can, cannot
-Open Software License 2.0 (OSL-2.0),,can,can,cannot,can, must, can,can, cannot, must,can, must,can,must, can,can, can, can,cannot,can,can,can, can,can, can, can, cannot
-Open Software License 2.1 (OSL-2.1),,can,can,cannot,can, must, can,can, cannot, must,can, must,can,must, can,can, can, can,cannot,can,can,can, can,can, can, can, cannot
-OpenLDAP Public License v2.8 (OLDAP-2.8),,can,can,cannot,can,can, can,can, cannot, must,can, must,can,must, can,can, can, can,cannot,can,can,can, can,can, can, can, cannot
-OpenSSL License (OpenSSL),,can,can,cannot,can,can, can, must, cannot, must,can, must,can,must, can,can, can, can,cannot,can,can,can, can,can, can, can, cannot
-Oracle Binary Code License Agreement for the Java SE Platform Products and JavaFX,,can,can,cannot,can,can, can,can, cannot, must,can, must,can,must, ,can, can, can,cannot,can,can,can, can,can, can, can, 
-PHP License 3.0 (PHP),,can,can,cannot,can,can, can,can, cannot, must,can, must,can,must, can,can, can, can,cannot,can,can,can, can,can, can, can, cannot
-PHP License 3.0.1,,can,can,cannot,can,can, can,can, cannot, must,can, must,can,must, ,can, can, can,cannot,can,can,can, can,can, can, can, 
-Pokemon GO Terms of Service,,can,can,cannot,can,can, can,can, cannot, must,can, must,can,must, ,can, can, can,cannot,can,can,can, can,can, can, can, 
-PostgreSQL License (PostgreSQL),,can,can,cannot,can,can, can,can, cannot, must,can, must,can,must, can,can, can, can,cannot,can,can,can, can,can, can, can, 
-Python License 2.0,,can,can,cannot,can,can, can,can, cannot, must,can, must,can,must, can,can, can, can,cannot,can, must,can, can,can, can, can, cannot
-Q Public License 1.0 (QPL-1.0),,cannot,cannot,cannot,can, must, can,can, cannot, must,can, must,can,must, can,can, can, can,cannot,can,can,can, can,can, can, can, 
-RealNetworks Public Source License v1.0 (RPSL-1.0),,can,can,cannot,can, must, can,can, cannot, must,can, must,can,must, can,can, can, can,cannot,can, must,can, can,can, can, can, cannot
-Reciprocal Public License 1.5 (RPL-1.5),,can,can,cannot,can, must, can, must, cannot, must,can, must, must,must, can,can, can, can,cannot, must, must,can, can,can, can, can, cannot
-Red Hat eCos Public License v1.1 (RHeCos-1.1),,can,can,cannot,can, must, can,can, cannot, must,can, must,can,must, can,can, can, can,cannot,can, must,can, can,can, can, can, cannot
-Ricoh Source Code Public License (RSCPL),,can,can,cannot,can, must, can,can, cannot, must,can, must,can,must, can,can, can, can,cannot,can, must,can, can,can, can, can, cannot
-Ruby License (Ruby),,can,can,cannot,can, must, can,can, cannot, must,can, must,can,must, can,can, can, can,cannot,can,can,can, can,can, can, can, 
-SGI Free Software License B v2.0 (SGI-B-2.0),,can,can,cannot,can,can, can,can, cannot, must,can, must,can,must, can,can, can, can,cannot,can,can,can, can,can, can, can, cannot
-SIL Open Font License v1.1 (OFL-1.1),,can,can,cannot,can,can, can,can, cannot, must,can, must,can,must, can,can, can, can,cannot, must,can,can, cannot,can, can, can, cannot
-Sax Public Domain Notice (SAX-PD),,can,can,cannot,can,can, can,can, cannot, must,can, must,can,must, can,can, can, can,cannot,can,can,can,can,can, can, can, 
-Simple Public License 2.0 (SimPL),,can,can,cannot,can, must, can,can, can, must,can, must,can,must, can,can, can, can,cannot,can, must,can, cannot,can, can, can, 
-Sleepycat License,,can,can,cannot,can,can, can,can, cannot, must,can, must,can,must, can,can, can, can,cannot,can,can,can, can,can, can, can, cannot
-Snapchat Terms of Service,,can,can,cannot,can,can, can,can, cannot, must,can, must,can,must, ,can, can, can,cannot,can,can,can, can,can, can, can, 
-Sun Public License v1.0 (SPL-1.0),,can,can,cannot,can, must, can, must, cannot, must,can, must, must,must, can,can, can, can,cannot,can, must,can, can,can, can, can, cannot
-Sybase Open Watcom Public License 1.0 (Watcom-1.0),,can,can,cannot,can, must, can,can, cannot, must,can, must,can,must, can,can, can, can,cannot,can, must,can, can,can, can, can, cannot
-TLDRLegal Terms of Service,,can,can,cannot,can,can, can,can, cannot, must,can, must,can,must, ,can, can, can,cannot,can,can,can, can,can, can, can, 
-The JSON License,,can,can,cannot,can,can, can,can, cannot, must,can, must,can,must, can,can, can, can,cannot,can,can,can, can,can, can, can, 
-Universal Permissive License 1.0 (UPL-1.0),,can,can,cannot,can,can, can,can, cannot, must,can, must,can,must, can,can, can, can,cannot,can,can,can, can,can, can, can, 
-University of Illinois - NCSA Open Source License (NCSA),,can,can,cannot,can,can, can,can, cannot, must,can, must,can,must, can,can, can, can,cannot,can,can,can, can,can, can, can, cannot
-Unlicense,,can,can,cannot,can,can, can,can, can, cannot,can, must,can,must, can,can, can, can,cannot,can,can,can, can,can, can, can, 
-Unreal Engine End User License Agreement v9,,can,can,cannot, must, cannot, can,can, cannot, must,can, must,can,must, can,can, can, can,cannot,can,can, must, cannot,can, can, can, 
-Vovida Software License v1.0 (VSL-1.0),,can,can,cannot,can,can, can,can, cannot, must,can, must,can,must, can,can, can, can,cannot,can,can,can, can,can, can, can, cannot
-W3C Software Notice and License (W3C),,can,can,cannot,can,can, can,can, cannot, must,can, must,can,must, can,can, can, can,cannot,can, must,can, can,can, can, can, cannot
-XFree86 License 1.1 (XFree86-1.1),,can,can,cannot,can,can, can,can, cannot, must,can, must, must,must, can,can, can, can,cannot,can,can,can, can,can, can, can, cannot
-Xerox License (Xerox),,can,can,cannot,can,can, can,can, cannot, must,can, must,can,must, can,can, can, can,cannot,can,can,can, can,can, can, can, 
-Yahoo! Public License v1.1 (YPL-1.1),,can,can,cannot,can, must, can,can, cannot, must,can, must,can,must, can,can, can, can,cannot,can,can,can, can,can, can, can, cannot
-YouTube Terms of Service,,can,can,cannot,can,can, can,can, cannot, must,can, must,can,must, ,can, can, can,cannot,can,can,can, can,can, can, can, 
-Zlib-Libpng License (Zlib),,can,can,cannot,can,can, can,can, cannot, must,can, must,can,must, can,can, can, can,cannot, must,can,can, can,can, can, can, 
-Zope Public License 1.1 (ZPL-1.1),,can,can,cannot,can,can, can,can, cannot, must,can, must,can,must, can,can, can, can,cannot,can, must,can, can,can, can, can, cannot
-Zope Public License 2.0 (ZPL-2.0),,can,can,cannot,can,can, can,can, cannot, must,can, must,can,must, can,can, can, can,cannot,can, must,can, can,can, can, can, cannot
-curl License,,can,can,cannot,can,can, can,can, cannot, must,can, must,can,must, can,can, can, can,cannot,can,can,can, can,can, can, can, cannot
-“Commons Clause” License Condition v1.0,,can,can,cannot,can,can, can,can, cannot, must,can, must, must,must, can,can, can, can, cannot,can,can,can, can,can, can, can, 
+license,Commercial Use (Competitive),Commercial Use (Non-Competitive),Compensate for Damages,Contact Author,Disclose Source,Distribute,Give Credit,Hold Liable,Include Copyright,Include Install Instructions,Include License,Include Notice,Include Original,Modify,Pay Above Use Threshold,Place Warranty,Private Use,Relicense,Rename,State Changes,Statically Link,Sublicense,Use in Production,Use Internally,Use Patent Claims,Use Trademark
+4-Clause BSD,can, can, cannot,can,can, can, must, cannot, must,can, must,can,must, can,can, can,can,cannot,can,can, can, can,can, can, can, cannot
+Academic Free License 3.0 (AFL),can, can, cannot,can, must, can,can, cannot, must,can, must,can,must, can,can, can,can,cannot,can, must, can, can,can, can, can, cannot
+Academy of Motion Picture Arts and Sciences BSD,can, can, cannot,can,can, can,can, cannot, must,can, must,can,must, can,can, can, can,cannot,can,can, can, can,can, can, can, cannot
+Adaptive Public License 1.0 (APL-1.0),can, can, cannot,can, must, can, must, cannot, must,can, must, must,must, can,can, can, can,cannot,can, must, can, can,can, can, can, cannot
+Adobe Systems Incorporated Source Code License Agreement,can, can, cannot,can,can, can,can, cannot, must,can, must,can,must, can,can, can, can,cannot,can,can, can, can,can, can, can, cannot
+Amazon Digital Services License,can, can, cannot,can,can, can,can, cannot, must,can, must,can,must, can,can, can, can,cannot,can,can, can, can,can, can, can, cannot
+Android SDK License Agreement (June 2014),can, can, cannot,can,can, can,can, cannot, must,can, must,can,must,cannot,can, can,can,cannot,can,can, can, can,can, can, can, cannot
+Apache License 1.0 (Apache-1.0),can, can, cannot,can,can, can,can, cannot, must,can, must,can,must, can,can, can,can,cannot,can,can, can, can,can, can, can, cannot
+Apache License 2.0 (Apache-2.0),can, can, cannot,can,can, can,can, cannot, must,can, must, must,must, can,can, can, can,cannot,can, must, can, can,can, can, can, cannot
+Apple MIT License (AML),can, can, cannot,can,can, can,can, cannot, must,can, must,can,must, can,can, can, can,cannot,can,can, can, can,can, can, can, cannot
+Apple Public Source License 2.0 (APSL),can, can, cannot,can, must, can,can, cannot, must,can, must,can,must, can,can, can,can,cannot,can, must, can, can,can, can, can, cannot
+Apple Website Terms of Service,can, can, cannot,can,can, can,can, cannot, must,can, must,can,must,cannot,can, can,can,cannot,can,can, can, can,can, can, can, cannot
+Artistic License 2.0 (Artistic-2.0),can, can, cannot,can,can, can,can, cannot, must, must, must,can,must, can,can, can, can,cannot, must, must, can, can,can, can, can, cannot
+Attribution Assurance License (AAL),can, can, cannot,can,can, can, must, cannot, must,can, must,can,must, can,can, can,can,cannot,can,can, can, can,can, can, can, cannot
+BSD 0-Clause License (0BSD),can, can, cannot,can,can, can,can, cannot, can,can, can,can, can, can,can, can, can,cannot,can,can, can, can,can, can, can, cannot
+BSD 2-Clause License (FreeBSD/Simplified),can, can, cannot,can,can, can,can, cannot, must,can, must,can,must, can,can, can,can,cannot,can,can, can, can,can, can, can, cannot
+BSD 3-Clause License (Revised),can, can, cannot,can,can, can,can, cannot, must,can, must,can,must, can,can, can,can,cannot,can,can, can, can,can, can, can, cannot
+Beerware License,can, can, cannot,can,can, can,can, cannot, must,can, can,can,must, can,can, can,can,cannot,can,can, can, can,can, can, can, cannot
+BitTorrent Open Source License v1.1 (BitTorrent-1.1),can, can, cannot,can, must, can, must, cannot, must,can, must, must,must, can,can, can,can,cannot,can, must, can, can,can, can, can, cannot
+Boost Software License 1.0 (BSL-1.0),can, can, cannot,can,can, can,can, cannot, must,can, must,can,must, can,can, can,can,cannot,can,can, can, can,can, can, can, cannot
+Business Source License (BSL-1.1),can, can, cannot,can,can, can,can, cannot, must,can, must,can,must,can,can, can,can,cannot,can,can, can, can, cannot, can, can, cannot
+CUA Office Public License v1.0 (CUA-OPL-1.0),can, can, cannot,can, must, can, must, cannot, must,can, must, must,must, can,can, can,can,cannot,can, must, can, can,can, can, can, cannot
+CeCILL Free Software License Agreement v1.0 (CECILL-1.0),can, can, cannot,can, must, can,can, can, must,can, must, must,must, can,can, can,can,cannot,can, must, can, can,can, can, can, cannot
+CeCILL Free Software License Agreement v1.1 (CECILL-1.1),can,can, cannot,can, must, can,can, can, must,can, must, must,must, can,can, can,can,cannot,can, must, can, can,can, can, can, cannot
+CeCILL Free Software License Agreement v2.0 (CECILL-2.0),can,can, cannot,can, must, can,can, can, must,can, must, must,must, can,can, can,can,cannot,can, must, can, can,can, can, can, cannot
+Common Development and Distribution License (CDDL-1.0),can,can, cannot,can, must, can,can, cannot, must,can, must,can,must, can,can, can,can,cannot,can,can, can, can,can, can, can, cannot
+Common Public Attribution License Version 1.0 (CPAL-1.0),can,can, cannot,can, must, can,can, cannot, must,can, must, must,must, can,can, can,can,cannot,can, must, can, can,can, can, can, cannot
+Common Public License 1.0 (CPL-1.0),can,can, cannot,can, must, can,can, cannot, must,can, must,can,must, can,can, can,can,cannot,can,can, can, can,can, can, can, cannot
+Computer Associates Trusted Open Source License 1.1 (CATOSL-1.1),can,can, cannot,can, must, can, must, cannot, must,can, must, must,must, can,can, can,can,cannot,can, must, can, can,can, can, can, cannot
+Creative Commons Attribution 3.0 Unported (CC-BY),can,can, cannot,can,can, can,can, cannot, must,can, must,can,must, can,can, cannot,can,cannot,can,can, can, cannot,can, can, can, cannot
+Creative Commons Attribution 4.0 International (CC BY 4.0),can,can, cannot,can,can, can, must, cannot, must,can, must,can,must, can,can,can,can,cannot,can, must, can, cannot,can, can, can, cannot
+Creative Commons Attribution NoDerivs (CC-ND),can,can, cannot,can,can, can,can, cannot, must,can, must,can,must, cannot,can, cannot,can,cannot,can,can, can, cannot,can, can, can, cannot
+Creative Commons Attribution NonCommercial (CC-BY-NC),cannot,cannot, cannot,can,can, can, must, cannot, must,can, must,can,must, can,can, cannot,can,cannot,can, must, can, cannot,can, can, can, cannot
+Creative Commons Attribution NonCommercial NoDerivs (CC-NC-ND),cannot,cannot, cannot,can,can, can,can, cannot, must,can, must,can,must, cannot,can, cannot,can,cannot,can,can, can, cannot,can, can, can, cannot
+Creative Commons Attribution NonCommercial ShareAlike (CC-NC-SA),cannot,cannot, cannot,can,can, can,can, cannot, must,can, must,can,must, can,can, cannot,can,cannot,can,can, can, cannot,can, can, can, cannot
+Creative Commons Attribution Share Alike (CC-SA),can,can, cannot,can,can, can,can, cannot, must,can, must,can,must, can,can, cannot,can,cannot,can,can, can, cannot,can, can, can, cannot
+Creative Commons Attribution-NoDerivatives 4.0 International (CC BY-ND 4.0),can,can, cannot,can,can, can, must, cannot, must,can, must,can,must, cannot,can,can,can,cannot,can, must, can, cannot,can, can, can, cannot
+Creative Commons Attribution-NonCommercial 2.0 Generic (CC BY-NC 2.0),can,can, cannot,can,can, can,can, cannot, must,can, must,can,must,can,can,can,can,cannot,can,can, can,can,can, can, can, cannot
+Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0),cannot,cannot, cannot,can,can, can, must, cannot, must,can, must,can,must, can,can,can,can,cannot,can, must, can, cannot,can, can, can, cannot
+Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0),cannot,cannot, cannot,can,can, can, must, cannot, must,can, must,can,must, can,can, cannot,can,cannot,can, must, can, cannot,can, can, can, cannot
+Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0),can,can, cannot,can,can, can, must, cannot, must,can, must,can,must, can,can,can,can,cannot,can, must, can, cannot,can, can, can, cannot
+Creative Commons CC0 1.0 Universal (CC-0),can,can, cannot,can,can, can,can, cannot, must,can, must,can,must, can,can,can,can,cannot,can,can, can, can,can, can, cannot, cannot
+Cube License,can,can, cannot,can,can, can,can, cannot, must,can, must,can,must, can,can,can,can,cannot,can,can, can, can,can, can, can, cannot
+Do What The F*ck You Want To Public License v2 (WTFPL-2.0),can,can, cannot,can,can, can,can, cannot, can,can, can,can, can, can,can,can,can,cannot, must,can, can, can,can, can, can, cannot
+Doom Source Licence,cannot,cannot, cannot,can,can, cannot,can, cannot, must,can, must,can,must, can,can,can,can,cannot,can,can, can, can,can, can, can, cannot
+Dropbox Terms of Service,can,can, cannot,can,can,can,can, cannot, must,can, must,can,must,cannot,can,can,can,cannot,can,can, can, can,can, can, can, cannot
+EU DataGrid Software License (EUDatagrid),can,can, cannot,can,can, can,can, cannot, must,can, must, must,must, can,can,can,can,cannot,can,can, can, can,can, can, can, cannot
+Eclipse Public License 1.0 (EPL-1.0),can,can, must,can, must, can,can, cannot, must, must, must,can,must, can,can,can,can, can,can,can, can, can,can, can, can, cannot
+Educational Community License Version 2.0 (ECL-2.0),can,can,cannot,can,can, can,can, cannot, must,can, must, must,must, can,can,can,can,cannot,can, must, can, can,can, can, can, cannot
+Eiffel Forum License v2.0 (EFL-2.0),can,can,cannot,can,can, can,can, cannot, must,can, must,can,must, can,can,can,can, can,can,can, can, can,can, can, can, cannot
+Entessa Public License v1.0 (Entessa),can,can,cannot,can,can, can,can, cannot, must,can, must, must,must, can,can,can,can,cannot,can,can, can, can,can, can, can, cannot
+Erlang Public License v1.1 (ErlPL-1.1),can,can,cannot,can, must, can, must, cannot, must,can, must, must,must, can,can,can,can,cannot,can, must, can, can,can, can, can, cannot
+European Union Public License 1.1 (EUPL-1.1),can,can,cannot,can, must, can,can, cannot, must,can, must,can,must, can,can,can,can,cannot,can, must, can, can,can, can, can, cannot
+Facebook Terms of Service (Statement of Rights and Responsibilities),can,can,cannot,can,can, can,can, cannot, must,can, must,can,must,cannot,can,can,can,cannot,can,can, can, can,can, can, can, cannot
+Fair License (Fair),can,can,cannot,can,can, can,can, cannot, must,can, must,can,must, can,can, cannot,can,cannot,can,can, can, can,can, can, can, cannot
+Frameworx Open License 1.0 (Frameworx-1.0),can,can,cannot,can, must, can,can, cannot, must,can, must, must,must, can,can, can,can,cannot,can,can, can, can,can, can, can, cannot
+Free Public License 1.0.0,can,can,cannot,can,can, can,can, cannot, must,can, must,can,must, can,can, can,can,cannot,can,can, can, can,can, can, can, cannot
+Functional Source License (FSL), cannot,can,cannot,can,can, can,can, cannot, must,can, must,can,must,can,can, can,can,cannot,can,can, can, can,can, can, can, cannot
+GNU Affero General Public License v3 (AGPL-3.0),can,can,cannot,can, must, can,can, cannot, must, must, must,can,must, can,can, can,can,cannot,can, must, can, cannot,can, can, can, cannot
+GNU Free Documentation License v1.3 (FDL-1.3),can,can,cannot,can,can, can,can, cannot, must,can, must,can,must,can,can, can,can,cannot,can,can, can,can,can, can, can, cannot
+GNU General Public License v2.0 (GPL-2.0),can,can,cannot,can, must, can,can, cannot, must,can, must,can,must, can,can, can,can,cannot,can, must, can, cannot,can, can, can, cannot
+GNU General Public License v3 (GPL-3),can,can,cannot,can, must, can,can, cannot, must, must, must,can,must, can,can, can,can,cannot,can, must, can, cannot,can, can, can, cannot
+GNU LESSER GENERAL PUBLIC LICENSE,can,can,cannot,can,can, can,can, cannot, must,can, must,can,must,can,can, can,can,cannot,can,can, can, can,can, can, can, cannot
+GNU Lesser General Public License v2.1 (LGPL-2.1),can,can,cannot,can, must, can,can, cannot, must,can, must, must,must, can,can, can,can,cannot,can, must, cannot, can,can, can, can, cannot
+GNU Lesser General Public License v3 (LGPL-3.0),can,can,cannot,can, must, can,can, cannot, must, must, must,can,must, can,can, can,can,cannot,can, must,can, cannot,can, can, can, cannot
+Historic Permission Notice and Disclaimer (HPND),can,can,cannot,can,can, can,can, cannot, must,can, must, must,must, can,can, can,can,cannot,can,can,can, can,can, can, can, cannot
+IBM PowerPC Initialization and Boot Software (IBM-pibs),can,can,cannot,can,can, can,can, cannot, must,can, must,can,must, can,can, can,can,cannot,can,can,can, can,can, can, can, cannot
+IBM Public License 1.0 (IPL),can,can,cannot,can, must, can,can, cannot, must,can, must,can,must, can,can, can,can,cannot,can,can,can, can,can, can, can, cannot
+IPA Font License (IPA),can,can,cannot,can,can, can,can, cannot, must,can, must,can,must, can,can, can,can,cannot,can,can,can, can,can, can, can, cannot
+ISC License,can,can,cannot,can,can, can,can, cannot, must,can, must,can,must, can,can, can,can,cannot,can,can,can, can,can, can, can, cannot
+Independent JPEG Group License (IJG),can,can, must, must,can, can, must, cannot, cannot,can, must, must,must, can,can, can, must,cannot,can,can,can, can,can, can, cannot, cannot
+Instagram Terms of Use,can,can,cannot,can,can, can,can, cannot, must,can, must,can,must,cannot,can, can, can,cannot,can,can,can, can,can, can,can, cannot
+Intel Open Source License (Intel),can,can,cannot,can,can, can,can, cannot, must,can, must,can,must, can,can, can, can,cannot,can,can,can, can,can, can,can, cannot
+LaTeX Project Public License v1.3c (LPPL-1.3c),can,can,cannot,can, must, can,can, cannot, must,can, must,can,must, can,can, can, can,cannot,can, must,can, can,can, can,can, cannot
+League of Legends Terms of Use,can,can,cannot,can,can, can,can, cannot, must,can, must,can,must,cannot,can, can, can,cannot,can,can,can, can,can, can,can, cannot
+Lucent Public License v1.02 (LPL-1.02),can,can,cannot,can,can, can,can, cannot, must,can, must,can,must, can,can, can, can,cannot,can, must,can, can,can, can,can, cannot
+MIT License (Expat),can,can,cannot,can,can, can,can, cannot, must,can, must,can,must, can,can, can, can,cannot,can,can,can, can,can, can,can, cannot
+Microsoft Public License (Ms-PL),can,can,cannot,can,can, can,can, cannot, must,can, must,can,must, can,can, can, can,cannot,can,can,can, can,can, can,can, cannot
+Microsoft Reciprocal License (Ms-RL),can,can,cannot,can, must, can,can, cannot, must,can, must,can,must, can,can, can, can,cannot,can,can,can, can,can, can, cannot, cannot
+Minecraft End User Licence Agreement,can,can,cannot,can,can, can,can, cannot, must,can, must,can,must,cannot,can, can, can,cannot,can,can,can, can,can, can, can, cannot
+MirOS License (MirOS),can,can,cannot,can,can, can,can, cannot, must,can, must,can,must, can,can, can, can,cannot,can,can,can, can,can, can, can, cannot
+Mozilla Public License 1.0 (MPL-1.0),can,can,cannot,can, must, can,can, cannot, must,can, must,can,must, can,can, can, can,cannot,can, must,can, can,can, can, can, cannot
+Mozilla Public License 1.1 (MPL-1.1),can,can,cannot,can, must, can, must, cannot, must,can, must, must,must, can,can, can, can,cannot,can, must,can, can,can, can, can, cannot
+Mozilla Public License 2.0 (MPL-2.0),can,can,cannot,can, must, can,can, cannot, must,can, must,can,must, can,can, can, can,cannot,can,can,can, can,can, can, can, cannot
+Multics License (Multics),can,can,cannot,can,can, can,can, cannot, must,can, must,can,must, can,can, can, can,cannot,can,can,can, can,can, can, can, cannot
+NASA Open Source Agreement 1.3 (NASA-1.3),can,can,cannot,can, must, can,can, cannot, must,can, must,can,must, can,can, can, can,cannot,can,can,can, can,can, can, can, cannot
+NTP License (NTP),can,can,cannot,can,can, can,can, cannot, must,can, must,can,must, can,can, can, can,cannot,can,can,can, can,can, can, can, cannot
+Naumen Public License (Naumen),can,can,cannot,can,can, can,can, cannot, must,can, must,can,must, can,can, can, can,cannot,can, must,can, can,can, can, can, cannot
+Nethack General Public License (NGPL),can,can,cannot,can, must, can,can, cannot, must,can, must,can,must, can,can, can, can,cannot,can, must,can, cannot,can, can, can, cannot
+Netscape Public License v1.1 (NPL-1.1),can,can,cannot,can, must, can, must, cannot, must,can, must, must,must, can,can, can, can,cannot,can, must,can, can,can, can, can, cannot
+Nokia Open Source License (Nokia Open Source License),can,can,cannot,can, must, can, must, cannot, must,can, must, must,must, can,can, can, can,cannot,can, must,can, can,can, can, can, cannot
+Non-Profit Open Software License 3.0 (NPOSL-3.0),can,can,cannot,can, must, can,can, cannot, must,can, must,can,must, can,can, can, can,cannot,can,can,can, can,can, can, can, cannot
+OCLC Research Public License 2.0 (OCLC-2.0),can,can,cannot,can, must, can,can, cannot, must,can, must,can,must, can,can, can, can,cannot,can,can,can, can,can, can, can, cannot
+ODC Open Database License (ODbL),can,can,cannot,can,can, can,can, cannot, must,can, must,can,must, can,can, can, can,cannot,can,can,can, cannot,can, can, can, cannot
+ODC Public Domain Dedication & License 1.0 (PDDL-1.0),can,can,cannot,can,can, can,can, cannot, must,can, must,can,must, can,can, can, can,cannot,can,can,can, cannot,can, can, can, cannot
+Open Group Test Suite License (OGTSL),can,can,cannot,can,can, can,can, cannot, must,can, must,can,must, can,can, can, can,cannot,can, must,can, can,can, can, can, cannot
+Open Public License v1.0 (OPL-1.0),can,can,cannot,can, must, can, must, cannot, must,can, must, must,must, can,can, can, can,cannot,can, must,can, can,can, can, can, cannot
+Open Software Licence 3.0,can,can,cannot,can, must, can,can, cannot, must,can, must,can,must, can,can, can, can,cannot,can,can,can, can,can, can, can, cannot
+Open Software License 1.0 (OSL-1.0),can,can,cannot,can, must, can,can, cannot, must,can, must,can,must, can,can, can, can,cannot,can,can,can, can,can, can, can, cannot
+Open Software License 1.1 (OSL-1.1),can,can,cannot,can, must, can,can, cannot, must,can, must,can,must, can,can, can, can,cannot,can,can,can, can,can, can, can, cannot
+Open Software License 2.0 (OSL-2.0),can,can,cannot,can, must, can,can, cannot, must,can, must,can,must, can,can, can, can,cannot,can,can,can, can,can, can, can, cannot
+Open Software License 2.1 (OSL-2.1),can,can,cannot,can, must, can,can, cannot, must,can, must,can,must, can,can, can, can,cannot,can,can,can, can,can, can, can, cannot
+OpenLDAP Public License v2.8 (OLDAP-2.8),can,can,cannot,can,can, can,can, cannot, must,can, must,can,must, can,can, can, can,cannot,can,can,can, can,can, can, can, cannot
+OpenSSL License (OpenSSL),can,can,cannot,can,can, can, must, cannot, must,can, must,can,must, can,can, can, can,cannot,can,can,can, can,can, can, can, cannot
+Oracle Binary Code License Agreement for the Java SE Platform Products and JavaFX,can,can,cannot,can,can, can,can, cannot, must,can, must,can,must,cannot,can, can, can,cannot,can,can,can, can,can, can, can, cannot
+PHP License 3.0 (PHP),can,can,cannot,can,can, can,can, cannot, must,can, must,can,must, can,can, can, can,cannot,can,can,can, can,can, can, can, cannot
+PHP License 3.0.1,can,can,cannot,can,can, can,can, cannot, must,can, must,can,must,can,can, can, can,cannot,can,can,can, can,can, can, can, cannot
+Pokemon GO Terms of Service,can,can,cannot,can,can, can,can, cannot, must,can, must,can,must,cannot,can, can, can,cannot,can,can,can, can,can, can, can, cannot
+PostgreSQL License (PostgreSQL),can,can,cannot,can,can, can,can, cannot, must,can, must,can,must, can,can, can, can,cannot,can,can,can, can,can, can, can, cannot
+Python License 2.0,can,can,cannot,can,can, can,can, cannot, must,can, must,can,must, can,can, can, can,cannot,can, must,can, can,can, can, can, cannot
+Q Public License 1.0 (QPL-1.0),cannot,cannot,cannot,can, must, can,can, cannot, must,can, must,can,must, can,can, can, can,cannot,can,can,can, can,can, can, can, cannot
+RealNetworks Public Source License v1.0 (RPSL-1.0),can,can,cannot,can, must, can,can, cannot, must,can, must,can,must, can,can, can, can,cannot,can, must,can, can,can, can, can, cannot
+Reciprocal Public License 1.5 (RPL-1.5),can,can,cannot,can, must, can, must, cannot, must,can, must, must,must, can,can, can, can,cannot, must, must,can, can,can, can, can, cannot
+Red Hat eCos Public License v1.1 (RHeCos-1.1),can,can,cannot,can, must, can,can, cannot, must,can, must,can,must, can,can, can, can,cannot,can, must,can, can,can, can, can, cannot
+Ricoh Source Code Public License (RSCPL),can,can,cannot,can, must, can,can, cannot, must,can, must,can,must, can,can, can, can,cannot,can, must,can, can,can, can, can, cannot
+Ruby License (Ruby),can,can,cannot,can, must, can,can, cannot, must,can, must,can,must, can,can, can, can,cannot,can,can,can, can,can, can, can, cannot
+SGI Free Software License B v2.0 (SGI-B-2.0),can,can,cannot,can,can, can,can, cannot, must,can, must,can,must, can,can, can, can,cannot,can,can,can, can,can, can, can, cannot
+SIL Open Font License v1.1 (OFL-1.1),can,can,cannot,can,can, can,can, cannot, must,can, must,can,must, can,can, can, can,cannot, must,can,can, cannot,can, can, can, cannot
+Sax Public Domain Notice (SAX-PD),can,can,cannot,can,can, can,can, cannot, must,can, must,can,must, can,can, can, can,cannot,can,can,can,can,can, can, can, cannot
+Simple Public License 2.0 (SimPL),can,can,cannot,can, must, can,can, can, must,can, must,can,must, can,can, can, can,cannot,can, must,can, cannot,can, can, can, cannot
+Sleepycat License,can,can,cannot,can,can, can,can, cannot, must,can, must,can,must, can,can, can, can,cannot,can,can,can, can,can, can, can, cannot
+Snapchat Terms of Service,can,can,cannot,can,can, can,can, cannot, must,can, must,can,must,can,can, can, can,cannot,can,can,can, can,can, can, can, cannot
+Sun Public License v1.0 (SPL-1.0),can,can,cannot,can, must, can, must, cannot, must,can, must, must,must, can,can, can, can,cannot,can, must,can, can,can, can, can, cannot
+Sybase Open Watcom Public License 1.0 (Watcom-1.0),can,can,cannot,can, must, can,can, cannot, must,can, must,can,must, can,can, can, can,cannot,can, must,can, can,can, can, can, cannot
+TLDRLegal Terms of Service,can,can,cannot,can,can, can,can, cannot, must,can, must,can,must,cannot,can, can, can,cannot,can,can,can, can,can, can, can, cannot
+The JSON License,can,can,cannot,can,can, can,can, cannot, must,can, must,can,must, can,can, can, can,cannot,can,can,can, can,can, can, can, cannot
+Universal Permissive License 1.0 (UPL-1.0),can,can,cannot,can,can, can,can, cannot, must,can, must,can,must, can,can, can, can,cannot,can,can,can, can,can, can, can, cannot
+University of Illinois - NCSA Open Source License (NCSA),can,can,cannot,can,can, can,can, cannot, must,can, must,can,must, can,can, can, can,cannot,can,can,can, can,can, can, can, cannot
+Unlicense,can,can,cannot,can,can, can,can, can, cannot,can, must,can,must, can,can, can, can,cannot,can,can,can, can,can, can, can, cannot
+Unreal Engine End User License Agreement v9,can,can,cannot, must, cannot, can,can, cannot, must,can, must,can,must, can,can, can, can,cannot,can,can, must, cannot,can, can, can, cannot
+Vovida Software License v1.0 (VSL-1.0),can,can,cannot,can,can, can,can, cannot, must,can, must,can,must, can,can, can, can,cannot,can,can,can, can,can, can, can, cannot
+W3C Software Notice and License (W3C),can,can,cannot,can,can, can,can, cannot, must,can, must,can,must, can,can, can, can,cannot,can, must,can, can,can, can, can, cannot
+XFree86 License 1.1 (XFree86-1.1),can,can,cannot,can,can, can,can, cannot, must,can, must, must,must, can,can, can, can,cannot,can,can,can, can,can, can, can, cannot
+Xerox License (Xerox),can,can,cannot,can,can, can,can, cannot, must,can, must,can,must, can,can, can, can,cannot,can,can,can, can,can, can, can, cannot
+Yahoo! Public License v1.1 (YPL-1.1),can,can,cannot,can, must, can,can, cannot, must,can, must,can,must, can,can, can, can,cannot,can,can,can, can,can, can, can, cannot
+YouTube Terms of Service,can,can,cannot,can,can, can,can, cannot, must,can, must,can,must,cannot,can, can, can,cannot,can,can,can, can,can, can, can, cannot
+Zlib-Libpng License (Zlib),can,can,cannot,can,can, can,can, cannot, must,can, must,can,must, can,can, can, can,cannot, must,can,can, can,can, can, can, cannot
+Zope Public License 1.1 (ZPL-1.1),can,can,cannot,can,can, can,can, cannot, must,can, must,can,must, can,can, can, can,cannot,can, must,can, can,can, can, can, cannot
+Zope Public License 2.0 (ZPL-2.0),can,can,cannot,can,can, can,can, cannot, must,can, must,can,must, can,can, can, can,cannot,can, must,can, can,can, can, can, cannot
+curl License,can,can,cannot,can,can, can,can, cannot, must,can, must,can,must, can,can, can, can,cannot,can,can,can, can,can, can, can, cannot
+"""Commons Clause"" License Condition v1.0",can,can,cannot,can,can, can,can, cannot, must,can, must, must,must, can,can, can, can, cannot,can,can,can, can,can, can, can, cannot
