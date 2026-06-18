@@ -108,7 +108,6 @@ export async function validateOutputFile(outputPath: string) {
 		} else if (err.code === "EEXIST") {
 			throw new Error(`file ${outputPath} already exists`, { cause: "EEXIST" });
 		}
-		console.log(err);
 		throw new Error(`cannot write to file ${outputPath}`);
 	}
 }
