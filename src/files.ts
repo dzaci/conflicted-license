@@ -3,7 +3,7 @@ import { constants, readFile } from "node:fs/promises";
 // dependencies: possible to expand functionality to also check dependencies of dependencies
 export interface IPkg {
 	name: string,
-	license?: string,
+	license: string,
 	dependencies?: Record<string, string>
 }
 

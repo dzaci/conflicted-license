@@ -23,5 +23,6 @@
   },
   "bin": {
     "conflicted-license": "./dist/index.js"
-  }
+  },
+  "license": "BSD-3-Clause"
 }
