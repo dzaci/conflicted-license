@@ -135,7 +135,7 @@ async function main() {
 			}
 		} else {
 			rl.close();
-			console.error(err.message);
+			console.error("could not validate input or output file");
 			process.exit(1);
 		}
 	}
@@ -212,7 +212,7 @@ async function main() {
 
 	// search npm registry if other methods fail
 	for (const name of [...depsWithouLicense]) {
-		// TODO: fetch current version, may not be able because package.json may specify range of versions
+		// fetch current version, may not be able because package.json may specify range of versions
 		const res = await fetch(`https://registry.npmjs.org/${name}/latest`);
 		if (res.ok) {
 			const resJson = await res.json();
@@ -236,6 +236,7 @@ async function main() {
 		restrictions.push(row);
 	}
 
+	// TODO: multiple comparison tables based on which type of restriction is being checked
 	const comparisonTable = [["can", "cannot", "must"], ["cannot", "cannot", "!!!"], ["must", "!!!", "must"]];
 	const tableMap = { "can": 0, "cannot": 1, "must": 2 };
 	const typeOfRestriction = [
@@ -267,12 +268,25 @@ async function main() {
 		"Use Trademark"
 	];
 
-	const lic = restrictions.filter((license) => license.short.toLowerCase() === deps.license.toLowerCase())[0];
+	const matchedLicenses = restrictions.filter((license) => license.short.toLowerCase() === deps.license.toLowerCase());
+	if (matchedLicenses.length <= 0) {
+		console.error(`the license (${deps.license}) you use for your module is not yet in our database of licenses`);
+		process.exit(1);
+	}
+	const lic = matchedLicenses[0];
+
 	let conflicts: IConflict[] = [];
 	for (const mod of data) {
-		const depLic = restrictions.filter((license) => license.short.toLowerCase() === mod.license.toLowerCase())[0];
-		let conflict: IConflict = { with: mod.name, conflicts: [] };
+		// BSD missing from short names, since it is a family of licenses
+		// would require to inspect the LICENSE file
+		const matchedDepLicenses = restrictions.filter((license) => license.short.toLowerCase() === mod.license.toLowerCase());
+		if (matchedDepLicenses.length <= 0) {
+			console.error(`the license (${mod.license}) used by module ${mod.name} is not yet in our database of licenses, skipping`);
+			continue;
+		}
+		const depLic = matchedDepLicenses[0];
 
+		let conflict: IConflict = { with: mod.name, conflicts: [] };
 		if (lic.short.toLowerCase() === depLic.short.toLowerCase()) {
 			// no need to check
 			continue;
@@ -286,7 +300,7 @@ async function main() {
 			const colKey: number = tableMap[stance];
 
 			if (comparisonTable[rowKey]) {
-				let comparison = comparisonTable[rowKey][colKey];
+				const comparison = comparisonTable[rowKey][colKey];
 
 				if (comparison === "!!!") {
 					conflict.conflicts.push({ conflict: type, type: "error" } as IConflictItem);
@@ -300,7 +314,6 @@ async function main() {
 	}
 
 	const format = await formatConflicts(conflicts, deps.name, args.format);
-	console.log(typeof format)
 	if (format) {
 		writeFile(args.outputPath, format, "utf8", (err) => { if (err) console.error("could not write to file", args.outputPath) });
 	} else {
