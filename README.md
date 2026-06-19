@@ -37,6 +37,7 @@ npm run build
 sudo npm link
 conflicted-license -v
 `
+
 `
 cd /mock/projects/rpj
 conflicted-license -o konflikty.md
