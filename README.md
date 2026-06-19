@@ -5,25 +5,40 @@ Neskorším cieľom je rozšíriť túto funkcionalitu aj na balíky, na ktorýc
 
 Tento nástroj je realizovaný v jazyku typescript a bude akceptovať súbory package.json, package-lock.json. Výstupom  bude .md alebo .html súbor obsahujúci tabuľku.
 
--- ako instalovat
+### ako inštalovať
 1. naklonovať repozitár
-2. vojsť do repozitára
-3. `sudo npm link` - sprístupní `conflicted-license` používateľovi cez $PATH
+2. vojsť do naklonovaného priečinka
+3. zbehnúť `npm run build`
+4. `sudo npm link` - sprístupní `conflicted-license` používateľovi cez $PATH
 
--- usage guide
-Walk users through how to use your project. Include code examples
-
-Použitie:
+### použitie:
 - `-o`/`--output` 
 	- definujú súbor, do ktorého sa uloží výstupný súbor.
 	- prednastavený je priečinok z ktorého užívateľ spustí nástroj
-- Prednastavene sa užívateľovi vygeneruje conflicts.md súbor. Toto správanie je možné zmeniť pomocou prepínačna `--html`
+    - Prednastavene sa užívateľovi vygeneruje conflicts.md súbor. Toto správanie je možné zmeniť pomocou prepínačna `--html`
 - `--html`
 	- definuje html formát súboru, do ktorého sa uloží získaná tabuľka
 - `-y` 
     - nastavenie premennej autoConfirm. Teda napríklad automatické potvrdenie otázky, či chce užívateľ prepísať výstupný súbor
-- Za prepínačmi nasleduje cesta k package.json a/alebo cesta k package-lock.json, poprípade nič, kedy program bude hľadať package.json/package-lock.json priamo v priečinku, v ktorom bol spustený.
+- Za prepínačmi nasleduje cesta k package.json, poprípade nič, kedy program bude hľadať package.json priamo v priečinku, v ktorom bol spustený.
+- `-v`
+    - výpis verzie
 
-Výstup
+### výstup
 - na stdin program vypisuje informácie o behu funkcií
 - jeden z riadkov tohto výstupu obsahuje absolútnu cestu v výstupnému súboru
+
+### príklady
+`
+cd /git
+git clone git@github.com:dzaci/conflicted-license.git
+cd ./conflicted-license
+npm run build
+sudo npm link
+conflicted-license -v
+`
+`
+cd /mock/projects/rpj
+conflicted-license -o konflikty.md
+`
+

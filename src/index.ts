@@ -114,8 +114,13 @@ async function formatConflicts(conflicts: IConflict[], name: string, format: str
 async function main() {
 	let overwrite: boolean = false;
 	const args: parseArgs.IParsedArgs = await parseArgs.parseArgs(process.argv.slice(2), process.cwd());
-	const rl = readLine.createInterface(process.stdin, process.stdout);
 
+	if (args.version) {
+		console.log("1");
+		process.exit(0);
+	}
+
+	const rl = readLine.createInterface(process.stdin, process.stdout);
 	try {
 		await parseArgs.validateInputFile(args.inputPath);
 		await parseArgs.validateOutputFile(args.outputPath);

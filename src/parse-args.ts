@@ -7,11 +7,13 @@ export interface IParsedArgs {
 	inputPath: string;
 	format: string;
 	autoConfirm: boolean;
+	version: boolean;
 }
 export async function parseArgs(argv: string[], cwd: string): Promise<IParsedArgs> {
 	let defaultOut = joinPath(cwd, "conflicts");
 	let format: string = ".md";
 	let autoConfirm = false;
+	let version = false;
 	let inputPath: string = cwd;
 	let outputPath: string;
 	let userPath: string | undefined;
@@ -27,7 +29,8 @@ export async function parseArgs(argv: string[], cwd: string): Promise<IParsedArg
 					userPath = arg.trim();
 				}
 				else {
-					throw new Error("missing argument: output");
+					console.error("missing argument: output")
+					process.exit(1)
 				}
 				break;
 			case "--html":
@@ -39,6 +42,8 @@ export async function parseArgs(argv: string[], cwd: string): Promise<IParsedArg
 			case "-y":
 				autoConfirm = true;
 				break;
+			case "-v":
+				version = true;
 			default:
 				inputPath = argv[i] ?? "";
 				break;
@@ -57,7 +62,7 @@ export async function parseArgs(argv: string[], cwd: string): Promise<IParsedArg
 
 	if (!userPath) {
 		outputPath = defaultOut + format;
-		return { outputPath, format, inputPath, autoConfirm };
+		return { outputPath, format, inputPath, autoConfirm, version };
 	}
 
 	userPath = isAbsolute(userPath) ? userPath : resolve(cwd, userPath);
@@ -76,7 +81,7 @@ export async function parseArgs(argv: string[], cwd: string): Promise<IParsedArg
 		}
 	}
 
-	return { outputPath, inputPath, format, autoConfirm };
+	return { outputPath, inputPath, format, autoConfirm, version };
 }
 
 export async function validateInputFile(inputPath: string) {
