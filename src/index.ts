@@ -129,19 +129,20 @@ async function main() {
 			console.error(err.message);
 			overwrite = await ask(`do you want to overwrite it? [y/N]`, args.autoConfirm, rl);
 			if (!overwrite) {
-				console.log("operation cancelled by user")
-				rl.close();
+				console.log("operation cancelled by user");
 				process.exit(0);
 			}
-		} else {
-			rl.close();
-			console.error("could not validate input or output file");
+		}
+		else {
+			console.error(err.message);
 			process.exit(1);
 		}
 	}
+	finally {
+		rl.close();
+	}
 	// input parsing and validation done
 
-	rl.close();
 
 	// read the package.json file
 	const deps: files.IPkg = await files.getDepsFromPkg(args.inputPath);
